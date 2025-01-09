@@ -1,0 +1,44 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 08 Jan 2025 20:31:49 at https://coronavirus.sergas.gal/autotest/index.html?lang=es-ES +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://coronavirus.sergas.gal/autotest/index.html?lang=es-ES -O1 "C:\Users\jose-\OneDrive\Documentos\AAAA\prueba2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:32:58	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/libs/jquery-ui-1.12.1-effects/images/ui-icons_444444_256x240.png (from https://coronavirus.sergas.gal/autotest/libs/jquery-ui-1.12.1-effects/jquery-ui-effects.min.css)
+20:32:58	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/libs/jquery-ui-1.12.1-effects/images/ui-icons_555555_256x240.png (from https://coronavirus.sergas.gal/autotest/libs/jquery-ui-1.12.1-effects/jquery-ui-effects.min.css)
+20:32:58	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/libs/jquery-ui-1.12.1-effects/images/ui-icons_ffffff_256x240.png (from https://coronavirus.sergas.gal/autotest/libs/jquery-ui-1.12.1-effects/jquery-ui-effects.min.css)
+20:32:58	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/libs/jquery-ui-1.12.1-effects/images/ui-icons_777620_256x240.png (from https://coronavirus.sergas.gal/autotest/libs/jquery-ui-1.12.1-effects/jquery-ui-effects.min.css)
+20:32:58	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/libs/jquery-ui-1.12.1-effects/images/ui-icons_cc0000_256x240.png (from https://coronavirus.sergas.gal/autotest/libs/jquery-ui-1.12.1-effects/jquery-ui-effects.min.css)
+20:32:58	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/libs/jquery-ui-1.12.1-effects/images/ui-icons_777777_256x240.png (from https://coronavirus.sergas.gal/autotest/libs/jquery-ui-1.12.1-effects/jquery-ui-effects.min.css)
+20:32:58	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/fonts/core/montserrat/Montserrat-Light.eot (from https://coronavirus.sergas.gal/autotest/min/site-041f289e86.css)
+20:32:58	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/fonts/core/montserrat/Montserrat-Light.eot? (from https://coronavirus.sergas.gal/autotest/min/site-041f289e86.css)
+20:32:58	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/fonts/core/montserrat/Montserrat-Light.woff (from https://coronavirus.sergas.gal/autotest/min/site-041f289e86.css)
+20:32:58	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/fonts/core/montserrat/Montserrat-Regular.eot (from https://coronavirus.sergas.gal/autotest/min/site-041f289e86.css)
+20:32:58	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/fonts/core/montserrat/Montserrat-Regular.eot? (from https://coronavirus.sergas.gal/autotest/min/site-041f289e86.css)
+20:32:58	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/fonts/core/montserrat/Montserrat-Bold.eot (from https://coronavirus.sergas.gal/autotest/min/site-041f289e86.css)
+20:32:58	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/fonts/core/montserrat/Montserrat-Bold.eot? (from https://coronavirus.sergas.gal/autotest/min/site-041f289e86.css)
+20:32:58	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/fonts/core/open-sans/OpenSans-Regular.eot (from https://coronavirus.sergas.gal/autotest/min/site-041f289e86.css)
+20:32:58	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/fonts/core/open-sans/OpenSans-Regular.eot? (from https://coronavirus.sergas.gal/autotest/min/site-041f289e86.css)
+20:32:58	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/fonts/core/open-sans/OpenSans-Bold.eot (from https://coronavirus.sergas.gal/autotest/min/site-041f289e86.css)
+20:32:58	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/fonts/core/open-sans/OpenSans-Bold.eot? (from https://coronavirus.sergas.gal/autotest/min/site-041f289e86.css)
+20:32:59	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/Popover requires tooltip.js (from https://coronavirus.sergas.gal/autotest/min/site-abf0c1926f.js)
+20:32:59	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/call_get.js (from https://coronavirus.sergas.gal/autotest/min/site-abf0c1926f.js)
+20:32:59	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/generators.js (from https://coronavirus.sergas.gal/autotest/min/site-abf0c1926f.js)
+20:32:59	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/map.js (from https://coronavirus.sergas.gal/autotest/min/site-abf0c1926f.js)
+20:32:59	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/nodeify.js (from https://coronavirus.sergas.gal/autotest/min/site-abf0c1926f.js)
+20:32:59	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/promisify.js (from https://coronavirus.sergas.gal/autotest/min/site-abf0c1926f.js)
+20:32:59	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/props.js (from https://coronavirus.sergas.gal/autotest/min/site-abf0c1926f.js)
+20:32:59	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/race.js (from https://coronavirus.sergas.gal/autotest/min/site-abf0c1926f.js)
+20:32:59	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/reduce.js (from https://coronavirus.sergas.gal/autotest/min/site-abf0c1926f.js)
+20:32:59	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/settle.js (from https://coronavirus.sergas.gal/autotest/min/site-abf0c1926f.js)
+20:32:59	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/some.js (from https://coronavirus.sergas.gal/autotest/min/site-abf0c1926f.js)
+20:32:59	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/timers.js (from https://coronavirus.sergas.gal/autotest/min/site-abf0c1926f.js)
+20:32:59	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/using.js (from https://coronavirus.sergas.gal/autotest/min/site-abf0c1926f.js)
+20:32:59	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/any.js (from https://coronavirus.sergas.gal/autotest/min/site-abf0c1926f.js)
+20:32:59	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/each.js (from https://coronavirus.sergas.gal/autotest/min/site-abf0c1926f.js)
+20:32:59	Error: 	"Not Found" (404) at link https://coronavirus.sergas.gal/autotest/filter.js (from https://coronavirus.sergas.gal/autotest/min/site-abf0c1926f.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 10 seconds : 78 links scanned, 44 files written (3794516 bytes overall) [3402819 bytes received at 48611 bytes/sec], 635905 bytes transferred using HTTP compression in 8 files, ratio 33%
+(33 errors, 0 warnings, 0 messages)
